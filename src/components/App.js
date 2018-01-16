@@ -10,7 +10,7 @@ class App extends Component {
   static propTypes = {
     user: PropTypes.string.isRequired
   };
-
+ 
   state = {
     user: this.props.user
   };
