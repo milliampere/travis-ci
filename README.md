@@ -1,4 +1,4 @@
-# jest-react-testing-2
+# jest-react-testing-2 &middot; [![Build Status](https://travis-ci.org/milliampere/travis-ci.svg?branch=camilla)](https://travis-ci.org/milliampere/travis-ci) [![Coverage Status](https://coveralls.io/repos/github/milliampere/travis-ci/badge.svg?branch=camilla)](https://coveralls.io/github/milliampere/travis-ci?branch=camilla)
 
 >Example app built with [`create-react-app`](https://github.com/facebookincubator/create-react-app) for integration and snapshot testing.
 
