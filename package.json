@@ -1,6 +1,6 @@
 {
   "name": "jest-react-testing-2",
-  "description" : "Example react app to use for testing and reaching code coverage",
+  "description": "Example react app to use for testing and reaching code coverage",
   "private": true,
   "version": "0.1.0",
   "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
@@ -21,6 +21,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "coveralls": "^3.0.0",
     "eslint": "4.15.0",
     "eslint-config-airbnb": "16.1.0",
     "eslint-config-prettier": "2.9.0",
